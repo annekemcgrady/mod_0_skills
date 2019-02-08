@@ -1,4 +1,4 @@
-#Food
+**Food**
 
 **Attributes:**
 1. Delivery time (datetime)
@@ -6,8 +6,7 @@
 3. Produce types (string)
 4. Number of potatoes (integer)
 
-
-** Methods:**
+**Methods:**
 1. Expire
 2. Chop
 3. Grill

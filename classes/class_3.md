@@ -1,4 +1,4 @@
-# Appliances
+**Appliances**
 
 **Attributes:**
 1. Brand (string)
